@@ -1,2 +1,1 @@
-# RandomLC
-A
+RandomLC is a web app that helps users practice coding problems by randomly selecting LeetCode questions. Users can choose a difficulty level (easy, medium, hard) or opt for a fully random selection. With a clean interface and efficient backend, RandomLC simplifies problem selection, making coding practice quick, diverse, and engaging
